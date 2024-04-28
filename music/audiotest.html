@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <button id="button">Click</button>
+    <script>
+        let button = document.querySelector("#button");
+        button.addEventListener("click",() => {
+            playAudio('testaudio.mp3')
+        })
+        function playAudio(audio){
+
+            // Create an audio context
+            var audioContext = new (window.AudioContext || window.webkitAudioContext)();
+    
+            // Create an audio element
+            var audioElement = new Audio(audio);
+    
+            // Create a source node
+            var sourceNode = audioContext.createMediaElementSource(audioElement);
+    
+            // Connect the source to the audio context's destination (speakers)
+            sourceNode.connect(audioContext.destination);
+    
+            // Play the audio
+            audioElement.play();
+    
+            // Pause the audio
+            // audioElement.pause();
+    
+            // Adjust volume
+            // audioElement.volume = 0.5;
+        }
+
+    </script>
+</body>
+</html>

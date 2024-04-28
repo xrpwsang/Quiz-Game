@@ -1,0 +1,122 @@
+[
+    {
+        "question": "What is a cow?",
+        "choice1": "Insect",
+        "choice2": "Bird",
+        "choice3": "Fish",
+        "choice4": "Animal",
+        "answer": 4
+    },
+    {
+        "question": "How many sides does an Triangle have?",
+        "choice1": "4",
+        "choice2": "2",
+        "choice3": "3",
+        "choice4": "5",
+        "answer": 3
+    },
+    {
+        "question": "Our solar system consists of _____ planets.",
+        "choice1": "7",
+        "choice2": "8",
+        "choice3": "6",
+        "choice4": "5",
+        "answer": 2
+    },
+    {
+        "question": "What is 9×9=",
+        "choice1": "81",
+        "choice2": "91",
+        "choice3": "71",
+        "choice4": "21",
+        "answer": 1
+    },
+    {
+        "question": "What is the full form of CPU?",
+        "choice1": "Cemtral Prosess Unit",
+        "choice2": "Center Path Unit",
+        "choice3": "Central Program Unit",
+        "choice4": "Central Processing Unit",
+        "answer": 4
+    },
+    {
+        "question": "Which is the most sensitive organ in the human body?",
+        "choice1": "Leg",
+        "choice2": "Hand",
+        "choice3": "Skin",
+        "choice4": "Foot",
+        "answer": 3
+    },
+    {
+        "question": "How many players are there in a cricket team?",
+        "choice1": "10",
+        "choice2": "11",
+        "choice3": "12",
+        "choice4": "14",
+        "answer": 2
+    },
+    {
+        "question": "In which country is Mount Everest located?",
+        "choice1": "Nepal",
+        "choice2": "Nauru",
+        "choice3": "Namibia",
+        "choice4": "Niger",
+        "answer": 1
+    },
+    {
+        "question": "Which insect with colourful wings?",
+        "choice1": "Spider",
+        "choice2": "Fly",
+        "choice3": "Ant",
+        "choice4": "Butterfly",
+        "answer": 4
+    },
+    {
+        "question": "What is the smallest two digit number?",
+        "choice1": "11",
+        "choice2": "12",
+        "choice3": "15",
+        "choice4": "10",
+        "answer": 4
+    },
+    {
+        "question": "Which shape has no sides and corners?",
+        "choice1": "Circle",
+        "choice2": "Square",
+        "choice3": "Rectangle",
+        "choice4": "Cone",
+        "answer": 1
+    },
+    {
+        "question": "Which animal gives us wool?",
+        "choice1": "Monkey",
+        "choice2": "Sheep",
+        "choice3": "Dog",
+        "choice4": "Bull",
+        "answer": 2
+    },
+    {
+        "question": "What do we get when water freezes?",
+        "choice1": "Ice-Cream",
+        "choice2": "Cols Water",
+        "choice3": "Ice",
+        "choice4": "Water",
+        "answer": 3
+    },
+    {
+        "question": "A lion lives in a ______.",
+        "choice1": "Jungle",
+        "choice2": "Cave",
+        "choice3": "House",
+        "choice4": "Den",
+        "answer": 4
+    },
+    {
+        "question": "Name the bird that lays the largest eggs?",
+        "choice1": "Fox",
+        "choice2": "Tiger",
+        "choice3": "Ostrich",
+        "choice4": "Hen",
+        "answer": 3
+    }
+]

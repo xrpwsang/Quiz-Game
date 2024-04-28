@@ -1,0 +1,125 @@
+[
+    {
+        "question": "Where ____ you come from?",
+        "choice1": "do",
+        "choice2": "are",
+        "choice3": "were",
+        "choice4": "is",
+        "answer": 1
+    },
+    {
+        "question": "How many days are there in a week?",
+        "choice1": "4",
+        "choice2": "5",
+        "choice3": "6",
+        "choice4": "7",
+        "answer": 4
+    },
+    {
+        "question": "Which animal is known as the 'Ship of the Desert?",
+        "choice1": "Sheep",
+        "choice2": "Spider",
+        "choice3": "Camel",
+        "choice4": "Cow",
+        "answer": 3
+    },
+    {
+        "question": "Rainbow consist of how many colours?",
+        "choice1": "5",
+        "choice2": "7",
+        "choice3": "8",
+        "choice4": "3",
+        "answer": 2
+    },
+    {
+        "question": "Which animal is known as the king of the jungle?",
+        "choice1": "Tiger",
+        "choice2": "Elephant",
+        "choice3": "Lion",
+        "choice4": "Rhino",
+        "answer": 3
+    },
+    {
+        "question": "What is the name of the closest star to Earth?",
+        "choice1": "Moon",
+        "choice2": "Sun",
+        "choice3": "Mars",
+        "choice4": "venus",
+        "answer": 2
+    },
+    {
+        "question": "Which day comes after Friday?",
+        "choice1": "Monday",
+        "choice2": "Saturday",
+        "choice3": "Wednesday",
+        "choice4": "Sunday",
+        "answer": 2
+    },
+    {
+        "question": "Tiger belongs to the family of ______.",
+        "choice1": "Dogs",
+        "choice2": "Cat",
+        "choice3": "Tiger",
+        "choice4": "Donkey",
+        
+        "answer": 2
+    },
+    {
+        "question": "What are your ears for?",
+        "choice1": "Laughing",
+        "choice2": "Watching",
+        "choice3": "Hearing",
+        "choice4": "Walking",
+        "answer": 3
+    },
+    {
+        "question": "Who is the daughter of your sister?",
+        "choice1": "My Brother",
+        "choice2": "My sister",
+        "choice3": "My Niece",
+        "choice4": "My Aunty",
+        "answer": 3
+    },
+    {
+        "question": "We use our eyes to ____.",
+        "choice1": "See",
+        "choice2": "Hear",
+        "choice3": "Feel",
+        "choice4": "Eat",
+        "answer": 1
+    },
+    {
+        "question": "Which one is a insect?",
+        "choice1": "Cow",
+        "choice2": "Ant",
+        "choice3": "Angry",
+        "choice4": "Cat",
+        "answer": 2
+    },
+    {
+        "question": "Which animal gives milk?",
+        "choice1": "Hen",
+        "choice2": "Fish",
+        "choice3": "Ox",
+        "choice4": "Cow",
+        "answer": 4
+    },
+    {
+        "question": "How many months do we have in a year?",
+        "choice1": "6",
+        "choice2": "9",
+        "choice3": "7",
+        "choice4": "12",
+        "answer": 4
+    },
+    {
+        "question": "The sister of my mom is my________.",
+        "choice1": "Father",
+        "choice2": "Mother",
+        "choice3": "Aunt",
+        "choice4": "Sister",
+        "answer": 3 
+    }
+    
+    
+]

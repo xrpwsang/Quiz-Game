@@ -1,0 +1,145 @@
+[
+    {
+        "question": "Who was the first person to land on the moon?",
+        "choice1": "Neil Armstrong",
+        "choice2": "Modi",
+        "choice3": "K.P Baa",
+        "choice4": "His Foot",
+        "audio": "testaudio.mp3",
+        "answer": 1
+    },
+    {
+        "question": "Legs have feet and arms have ___.",
+        "choice1": "Skull",
+        "choice2": "Hands",
+        "choice3": "Pelvis",
+        "choice4": "Ankles",
+        "audio": "bm.mp3",
+        "answer": 3
+    },
+    {
+        "question": "What star shines in the day and provides light?",
+        "choice1": "Moon",
+        "choice2": "Venus",
+        "choice3": "Mars",
+        "choice4": "Sun",
+        "audio": "testaudio.mp3",
+        "answer": 4
+    },
+    {
+        "question": "What part of the body helps you move?",
+        "choice1": "Eyes",
+        "choice2": "Lungs",
+        "choice3": "Pancreas",
+        "choice4": " Muscles",
+        "audio": "bm.mp3",
+        "answer": 4
+    },
+    
+    {
+        "question": "which is an living thing?",
+        "choice1": "Door",
+        "choice2": "House",
+        "choice3": "Cat",
+        "choice4": "Car",
+        "audio": "testaudio.mp3",
+        "answer": 3
+    },
+
+    {
+        "question": "The tree has a branch filled with green _____.",
+        "choice1": "Hair",
+        "choice2": "Roots",
+        "choice3": "Trunk",
+        "choice4": "Leaves",
+        "audio": "testaudio.mp3",
+        "answer": 4
+    },
+
+    {
+        "question": "What is Earth’s only natural satellite?",
+        "choice1": "Moon",
+        "choice2": "Sun",
+        "choice3": "Mars",
+        "choice4": "Star",
+        "audio": "testaudio.mp3",
+        "answer": 1
+    },
+
+    {
+        "question": " Which one is a fur-bearing animal?",
+        "choice1": "Hen",
+        "choice2": "Cat",
+        "choice3": "Crocodile",
+        "choice4": "Tortoise",
+        "audio": "testaudio.mp3",
+        "answer": 2
+    },
+    {
+        "question": "All animals need food, air, and ____ to survive.",
+        "choice1": "Water",
+        "choice2": "House",
+        "choice3": "Chocolate",
+        "choice4": "Fruits",
+        "audio": "testaudio.mp3",
+        "answer": 1
+    },
+
+    {
+        "question": "Which animal lays eggs?",
+        "choice1": "Dog",
+        "choice2": "Cow",
+        "choice3": "Hen",
+        "choice4": "Monkey",
+        "audio": "testaudio.mp3",
+        "answer": 3
+    },
+    {
+        "question": "A male cow is called?",
+        "choice1": "OX",
+        "choice2": "Dog",
+        "choice3": "Hen",
+        "choice4": "Lion",
+        "audio": "testaudio.mp3",
+        "answer": 1
+    },
+    {
+        "question": "What is the boiling point of water?",
+        "choice1": "25°C",
+        "choice2": "50°C",
+        "choice3": "75°C",
+        "choice4": "100°C",
+        "audio": "testaudio.mp3",
+        "answer": 4
+    },
+    {
+        "question": "Which is the largest land animal?",
+        "choice1": "Lion",
+        "choice2": "Elephant",
+        "choice3": "Rhino",
+        "choice4": "Tiger",
+        "audio": "testaudio.mp3",
+        "answer": 2
+    },
+    {
+        "question": "Which one is the three states of matter?",
+        "choice1": "Liquid",
+        "choice2": "Mass",
+        "choice3": "Volume",
+        "choice4": "Sound",
+        "audio": "testaudio.mp3",
+        "answer": 1
+    },
+
+    {
+        "question": "Which one is our sense organs?",
+        "choice1": "Leg",
+        "choice2": "Hand",
+        "choice3": "Head",
+        "choice4": "Skin",
+        "audio": "bm.mp3",
+        "answer": 4
+    }
+
+
+]

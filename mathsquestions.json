@@ -1,0 +1,129 @@
+[
+    {
+        "question": "How much is 15×5?",
+        "choice1": "65",
+        "choice2": "70",
+        "choice3": "75",
+        "choice4": "80",
+        "answer": 3
+    },
+    {
+        "question": "How many minutes are there in 5 hours?",
+        "choice1": "200",
+        "choice2": "300",
+        "choice3": "400",
+        "choice4": "600",
+        "answer": 2
+    },
+    {
+        "question": "How much is 22 + 33 + 44 + 55?",
+        "choice1": "100",
+        "choice2": "144",
+        "choice3": "154",
+        "choice4": "164",
+        "answer": 3
+    },
+    {
+        "question": "How much is 9×8?",
+        "choice1": "52",
+        "choice2": "62",
+        "choice3": "72",
+        "choice4": "82",
+        "answer": 3
+    },
+    {
+        "question": "Divide a square into two equal triangles.",
+        "choice1": "Divide equal triangle",
+        "choice2": "Divide square as triangle",
+        "choice3": "half the square",
+        "choice4": "Divide a square diagonally",
+        "answer": 4
+    },
+    {
+        "question": "How much is 555-55?",
+        "choice1": "455",
+        "choice2": "55",
+        "choice3": "400",
+        "choice4": "500",
+        "answer": 4
+    },
+    {
+        "question": "Draw two lines on a square to create four small squares",
+        "choice1": "draw equal line",
+        "choice2": "draw line in side",
+        "choice3": "draw lines in both side",
+        "choice4": "draw lines through the middle of each side",
+        "answer": 4
+    },
+    {
+        "question": " What is the next prime number after 5?",
+        "choice1": "6",
+        "choice2": "7",
+        "choice3": "9",
+        "choice4": "11",
+        "answer": 2
+    },
+    {
+        "question": " What is -15 + 15?",
+        "choice1": "30",
+        "choice2": "20",
+        "choice3": "0",
+        "choice4": "3",
+        "answer": 3
+    },
+    
+    {
+        "question": "How many centimeters are in 5 meters?",
+        "choice1": "400 centimeters",
+        "choice2": "500 centimeters",
+        "choice3": "600 centimeters",
+        "choice4": "300 centimeters",
+        "answer": 2
+    },
+    {
+        "question": " How much is 22 + 33 + 44 + 55?",
+        "choice1": "100",
+        "choice2": "154",
+        "choice3": "134",
+        "choice4": "144",
+        "answer": 2
+    },
+
+    {
+        "question": "Where is more milk: 10 bottles of 0.5 liters or 5 bottles of 1 liter?",
+        "choice1": "The amount of milk is the same",
+        "choice2": "10 bottles of 0.5 liters",
+        "choice3": "5 bottles of 1 liter",
+        "choice4": "None of above",
+        "answer": 1
+    },
+
+
+    {
+        "question": "How many minutes are there in 2 hours?",
+        "choice1": "60",
+        "choice2": "90",
+        "choice3": "100",
+        "choice4": "120",
+        "answer": 4
+    },
+
+    {
+        "question": "A designer makes $25 an hour. How many hours does it take for a designer to make money on a $100 sneaker?",
+        "choice1": "4 hours",
+        "choice2": "6 hours",
+        "choice3": "5 hours",
+        "choice4": "3 hours",
+        "answer": 1
+    },
+
+
+    {
+        "question": "How many centimeters are there in 5 meters?",
+        "choice1": "400 centimeters",
+        "choice2": "500 centimeters",
+        "choice3": "300 centimeters",
+        "choice4": "600 centimeters",
+        "answer": 2
+    }
+]
