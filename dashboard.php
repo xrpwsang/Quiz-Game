@@ -37,7 +37,7 @@
                 </li> -->
 
                 <li>
-                    <a href="newquestion_form.php"> <span class="las la-users"></span>Add New Questions<span></span> </a>
+                    <a href="newquestion_form.php"> <span class="las la-users"></span>Add something New Questions<span></span> </a>
                 </li>
 
                 <li>
